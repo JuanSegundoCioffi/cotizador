@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.errorMeters{
+    color: red;
+}
+
+nav{
+    height: 10vh;
+}
+
+footer{
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;  
+    background-color: rgb(124, 123, 123);
+}
+
